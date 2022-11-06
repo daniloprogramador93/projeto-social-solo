@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    padding: 0px;  
+}
+img{
+    width: 215px;
+    
+}
+a{
+    height: 40px;
+    width: 180px;
+    background-color: brown;
+    color: white;
+}
